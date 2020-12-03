@@ -1,9 +1,5 @@
 // Ranveer Singh
 // 6/6/19
-// CSE 143 A
-// TA: Tyler Mi
-// Assignment #8
-//
 // This class compresses text files using Huffman coding
 
 import java.util.*;
