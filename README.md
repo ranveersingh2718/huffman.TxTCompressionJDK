@@ -1,1 +1,1 @@
-# Huffman-compression
+# Huffman-compression JDK/JVM only
